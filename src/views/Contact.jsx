@@ -31,7 +31,7 @@ const Contact = () => {
                 <Mail />
                 </div>
                   <p data-cursor="text">
-                    <a href="mailto:urteagaramiro33@gmail.com" className='dark:-text--light-white'>{t('contact.email')}</a>
+                    <a href="mailto:agusvidela0322@gmail.com" className='dark:-text--light-white'>{t('contact.email')}</a>
                   </p>
                     <ButtonCopy/>
               </div>

@@ -1,11 +1,11 @@
 {
     "profile": {
       "hello": "👋Hola, soy",
-      "name": "Agustin VVidela",
+      "name": "Agustin Videla",
       "role": "Desarrollador Frontend",
       "downloadCV": "Descargar CV",
       "contactInfo": "Información de contacto",
-      "location": "📍Buenos Aires🇦🇷"
+      "location": "📍Buenos Aires 🇦🇷"
     },
     "about": {
       "getToKnow": "Conoce más",
@@ -16,7 +16,7 @@
         "details": "Técnico en Programación"
       },
       "experience": {
-        "title": "Experiencia",
+        "title": "Orientacion",
         "description": "Desarrollador Frontend",
         "details": ""
       },
