@@ -1,0 +1,112 @@
+{
+    "profile": {
+      "hello": "👋Hola, soy",
+      "name": "Agustin VVidela",
+      "role": "Desarrollador Frontend",
+      "downloadCV": "Descargar CV",
+      "contactInfo": "Información de contacto",
+      "location": "📍Buenos Aires🇦🇷"
+    },
+    "about": {
+      "getToKnow": "Conoce más",
+      "aboutMe": "Sobre mí",
+      "education": {
+        "title": "Educación",
+        "description": "Instituto Teclab",
+        "details": "Técnico en Programación"
+      },
+      "experience": {
+        "title": "Experiencia",
+        "description": "Desarrollador Frontend",
+        "details": ""
+      },
+      "textContent": "👋¡Hola! Soy Agustin, y me encanta mi profesión. <span>Me enamoré perdidamente de la programación</span>, y desde entonces no he dejado de sumergirme en el mundo de la tecnología. Me junto con un montón de frikis tecnológicos, y yo mismo me considero uno de ellos.<br/>Desde pequeño, siempre tuve <span>curiosidad</span> por entender cómo funcionaban las cosas. Desarmaba todo juguete, juego o dispositivo que caía en mis manos, con el objetivo de descubrir qué hacía que funcionaran de la manera en que lo hacían. Después, con paciencia y dedicación, los volvía a montar para que pudieran recuperar su funcionalidad.<br/>Como entusiasta de la tecnología y desarrollador web, me he centrado en adquirir conocimientos para convertirme en <span>Desarrollador Frontend</span>. Estoy dispuesto a compartir mi experiencia y siempre estoy ansioso por recibir comentarios constructivos que me ayuden a seguir creciendo. ¡Me encanta aprender y compartir! ❤"
+
+          },
+    "experience": {
+      "exploreMy": "Explora mi",
+      "title": "Experiencia",
+      "frontend": {
+        "title": "Habilidades"
+      }
+    },
+    "projects": {
+      "browseMyRecent": "Explora mis recientes",
+      "title": "Proyectos",
+      "cards": {
+        "scaloneta": {
+          "title": "Scaloneta",
+          "description": "Credencial:<br> estudiante@guayerd.com <br> 123456",
+          "alt": "Scaloneta"
+        },
+        "aloha": {
+          "title": "Aloha Aromas",
+          "description": "E-commerce sobre aromas",
+          "alt": "ALoha"
+        },
+        "wingu": {
+          "title": "Wingu",
+          "description": "Web de donación/envío",
+          "alt": "Wingu"
+        },
+        "tresDeseos": {
+          "title": "3Deseos",
+          "description": "Web para suministros de impresión 3D",
+          "alt": "3Deseos"
+        },
+        "bikeShop": {
+          "title": "BikeShop",
+          "description": "Sitio web de suministros para ciclismo",
+          "alt": "BikeShop"
+        },
+        "VideoConverter": {
+          "title": "VideoConverter",
+          "description": "Convertidor YouTube Video ID a Mp3",
+          "alt": "VideoConverter"
+          },
+        "Coquette": {
+            "title": "Coquette",
+            "description": "Galería 'Coquette' estudio de moda",
+            "alt": "Coquette"
+        },
+        "Grill": {
+          "title": "Grill House",
+          "description": "Catálogo online de restaurante",
+          "alt": "Grill House"
+        },
+        "Edu": {
+          "title": "Educatina",
+          "description": "LandingPage academia",
+          "alt": "Educatina"
+        },
+        "Urbanblock": {
+          "title": "Urbanblock",
+          "description": "Constructor LandingPage",
+          "alt": "Urbanblock"
+        }
+      }
+    },
+    "contact": {
+      "getInTouch": "Ponte en Contacto",
+      "title": "Contáctame",
+      "email": "Mail",
+      "linkedin": "Linkedin",
+      "nav": {
+        "name": "{AV}",
+        "about": "Sobre mí",
+        "experience": "Experiencia",
+        "projects": "Proyecto",
+        "contact": "Contacto"
+      }
+    },  "nav": {
+      "name": "{AV}",
+      "about": "Sobre mí",
+      "experience": "Experiencia",
+      "projects": "Proyecto",
+      "contact": "Contacto"
+    },
+    "language": {
+      "english": "Inglés",
+      "spanish": "Español"
+    }
+    }
