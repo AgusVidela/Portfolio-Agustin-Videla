@@ -62,9 +62,11 @@ p{
 nav, .nav-links{
     display: flex;
 }
+
 .desktop-nav{
     margin-top: 3rem;
 }
+
 nav{
     display: flex;
     justify-content: space-between;
