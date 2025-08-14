@@ -42,7 +42,7 @@ const CardProjects = ({ img, title, alt, description, isFirst, location, locatio
         <h2 data-cursor="text" className="project-title mt-4 font-bold text-jr-text text-2xl">{title}</h2>
         <p data-cursor="text" className="section_text_p text-center mt-3 dark:-text--light-white text-sm " dangerouslySetInnerHTML={{ __html: description }}></p>
         <div className="btn_container mt-5">
-          <div>
+          {/* <div>
             {isFirst ? (
               <BtnWhite text={"GitHub"}
                 className="cursor-not-allowed"
@@ -51,7 +51,7 @@ const CardProjects = ({ img, title, alt, description, isFirst, location, locatio
               <BtnWhite text={"GitHub"}
                 location={location} />
             )}
-          </div>
+          </div> */}
           <BtnBlack text={"Demo"}
             locations={locations} />
         </div>

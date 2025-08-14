@@ -51,7 +51,7 @@ const About = () => {
               />
               <WorkCard 
                 Company={"Fundacion Pescar"}
-                Work={"IT Trainee (Programa de 6 meses con beca)"}
+                Work={"IT Trainee (Programa - 6 meses con beca)"}
                 Years={"Jul 2023 - Dic 2023"}
               />
               </div>

@@ -34,14 +34,6 @@ export const projectData = [
       locations: 'https://grill-house-three.vercel.app',
       technologies: ['HTML', 'CSS', 'JS', 'REACT'],
     },
-    {
-      img: Educatina,
-      title: 'projects.cards.Edu.title',
-      descriptionKey: 'projects.cards.Edu.description',
-      location: 'https://github.com/RamiroUrt/Educatina',
-      locations: 'https://educatina.vercel.app',
-      technologies: ['HTML', 'CSS', 'JS', 'REACT'],
-    },
     ,
     {
       img: Aloha,

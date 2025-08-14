@@ -62,12 +62,15 @@ p{
 nav, .nav-links{
     display: flex;
 }
+.desktop-nav{
+    margin-top: 3rem;
+}
 nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
     position: relative;
-    height: 7rem;
+    /* height: 7rem; */
     width: 100%;
     transition: background-color 0.9s ease, color 0.9s ease;
     z-index: 1000;
@@ -488,6 +491,7 @@ img{
         justify-content: space-around;
         margin-left: 20px;
         margin-left: 20px;
+        height: 7rem;
     }
 
     #profile{
@@ -533,10 +537,14 @@ img{
         justify-self: center;
         align-items: center;
         text-align: center;
-        margin: 0 auto;
+        margin: 0 auto; 
+    }
+    .details_container_work{
+        margin-top: 20em;
     }
     .about_container{
         display: block;
+        width: 80%;
     }
     .color-container{
         margin: 0 auto;
@@ -570,7 +578,7 @@ img{
         flex-direction: column;
         justify-content: center;
         text-align: center;
-        margin: 0 auto;
+        margin-top: 20em;
         gap: 2rem;
     }
     .experience{
@@ -719,25 +727,10 @@ img{
     }
 }
 
-@media screen and (min-width: 900px) and (max-width: 1600px){
-
-    .mate-background{
-        right: 5em;
-    }
-    .carta-background{
-        left: 30em;
-    }
-    .auris-background{
-        left: 10em;
-    }
-    .auris-contain{
-        left: 20em;
-    }
-    .carta-background{
-        left: 1em;
-    }
-    .carta-contain{
-        left: 30em;
+@media screen and (min-width: 750px) and (max-width: 1600px){
+    .work-contain{
+        margin-top: 10em;
+        width: 100%;
     }
 }
 
@@ -752,6 +745,10 @@ img{
         text-align: center;
         width: 100%;
         margin: 0 auto;
+    }
+    .about{
+        margin-top: 2em;
+        margin-bottom: 2em;
     }
     .about_container{
         padding-top: 10em;

@@ -5,6 +5,19 @@
     display: flex;
     position: relative;
     flex-direction: column;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+@media screen and (max-width: 700px) {
+    .work-contain {
+        margin-top: 2em;
+        margin-bottom: 2em;
+        position: relative;
+    }
+    .details_container_work {
+        margin-top: 20em;
+        margin-bottom: 2em;
+    }
 }
 .content_work{
     display: flex;
