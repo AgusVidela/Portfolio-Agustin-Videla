@@ -42,15 +42,7 @@ export const projectData = [
       locations: 'https://educatina.vercel.app',
       technologies: ['HTML', 'CSS', 'JS', 'REACT'],
     },
-    {
-      img: Scaloneta,
-      title: 'projects.cards.scaloneta.title',
-      descriptionKey: 'projects.cards.scaloneta.description',
-      isFirst: true,
-      location: '',
-      locations: 'https://symphonious-trifle-c8a521.netlify.app',
-      technologies: ['HTML', 'CSS', 'JS'],
-    },
+    ,
     {
       img: Aloha,
       title: 'projects.cards.aloha.title',
@@ -67,14 +59,7 @@ export const projectData = [
       locations: 'https://frabjous-rolypoly-c02616.netlify.app',
       technologies: ['HTML', 'CSS', 'JS', 'APEX'],
     },
-    {
-      img: TresDESEOS,
-      title: 'projects.cards.tresDeseos.title',
-      descriptionKey: 'projects.cards.tresDeseos.description',
-      location: 'https://github.com/3Dseos/3dseos-pagina',
-      locations: 'https://pescar-3dseos.web.app',
-      technologies: ['HTML', 'CSS', 'JS', 'WEBPACK'],
-    },
+    ,
     {
       img: BikeShop,
       title: 'projects.cards.bikeShop.title',
@@ -83,12 +68,5 @@ export const projectData = [
       locations: 'https://bike-shopgt.netlify.app',
       technologies: ['HTML', 'CSS', 'REACT'],
     },
-    {
-      img: VideoConverter,
-      title: 'projects.cards.VideoConverter.title',
-      descriptionKey: 'projects.cards.VideoConverter.description',
-      location: 'https://github.com/RamiroUrt/ConverterToMp3',
-      locations: 'https://convertertomp3.onrender.com',
-      technologies: ['HTML', 'CSS', 'JS', 'NODEJS', 'EXPRESS'],
-    },
+    ,
   ];

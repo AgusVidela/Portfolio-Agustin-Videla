@@ -3,6 +3,7 @@ import CardCont from "../components/CardCont";
 import CardJr from "../components/CardJr";
 import { GraduationCap, BicepsFlexed } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
+import WorkCard from "../components/WorkCard";
 
 const About = () => {
   const { t } = useTranslation();
@@ -35,14 +36,24 @@ const About = () => {
           </div>
             <div className="work-contain">
               <div className="details_container_work">
-                  <li className="work_details_li">
-                    <ul>
-                      <h1 className="">carrera</h1>
-                    </ul>
-                  </li>
-                <li>
-                  <p className="text_work dark:text-light-white">titulo</p>
-                </li>
+                    <div className="section_pic_cont">
+                    <BicepsFlexed className='icono' />
+                    </div>
+              <WorkCard 
+                Company={"Ataway Buenos Aires"}
+                Work={"Consultor Técnico Oracle Cloud"}
+                Years={"Mayo 2025 - Actualidad"}
+              />
+              <WorkCard 
+                Company={"Ataway Buenos Aires"}
+                Work={"Consultor Técnico de TI — PeopleSoft"}
+                Years={"Sept 2024 - Mayo 2025"}
+              />
+              <WorkCard 
+                Company={"Fundacion Pescar"}
+                Work={"IT Trainee (Programa de 6 meses con beca)"}
+                Years={"Jul 2023 - Dic 2023"}
+              />
               </div>
             </div>
         </div>

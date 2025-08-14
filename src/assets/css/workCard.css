@@ -1,0 +1,33 @@
+.work_card_content{
+    /* background-color: aqua; */
+    width: 100%;
+    margin: 0.5em;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+.content_work{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    /* background-color: aquamarine; */
+}
+.circle{
+    margin-right: 0.5em;
+    display: flex;
+    background-color: var(--orange-color);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.work_details{
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: start;
+    margin-left: 1.5em;
+    display: flex
+}
+.work_card_title{
+    font-size: 1.2em;
+    font-weight: 600;
+}
